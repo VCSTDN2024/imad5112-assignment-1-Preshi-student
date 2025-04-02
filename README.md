@@ -38,9 +38,18 @@ The app’s codes were continuously pushed through github each time I
 made changes to the app, added more features perhaps colour and
 images then I would commit and push these changes to github. By
 pushing to github I kept track of the changes that were being made.
+
 Github Actions
 
+After pushing my codes to Github then I used Github Actions to automate the build and deployment process. 
+Running the automated tests helped me to ensure that the app functions well. 
+This then compiled the app into APK formats which are the correct formats required. 
+
+
+
 Screenshots
+
+
 
 Video link
 
@@ -67,3 +76,12 @@ W3Schools. (2025, March). Kotlin Variables. W3schools.
 FineGap, 2023. How to add an image to the drawable folder in Android
 Studio. [video online] Available at:
 https://youtu.be/rc4PBwJE78k?si=5Xq-jRKMnsynJmBy
+
+Challenges and Learnings 
+
+Challenge 1: Gradle problems-  I struggled finding a solution due to an internal error not with my code but rather my IDE and the overall gradle whereby it was stopping my app from running. 
+    Solution: I should have researched more about this and did critical checking  rather than struggling with it and wasting time till the last moment whereby I had to restart my app. 
+From this challenge specifically I learned how important it is to always update my gradle and my version app, and how important to check the version control and the kind of codes I'm using. 
+    
+
+    
