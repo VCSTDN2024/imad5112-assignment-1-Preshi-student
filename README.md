@@ -100,6 +100,7 @@ W3Schools. (2025, March). Kotlin Variables. W3schools.
 FineGap, 2023. How to add an image to the drawable folder in Android
 Studio. [video online] Available at:
 https://youtu.be/rc4PBwJE78k?si=5Xq-jRKMnsynJmBy
+https://youtu.be/3RtRKOxY-kg?si=b18MqpIv-CzENWRJ
 
 Challenges and Learnings 
 
