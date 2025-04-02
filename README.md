@@ -6,7 +6,18 @@ Higher Certificate in Mobile Appliacation
 and Web Development
 IMAD
 
-About the Project
+Purpose and Features
+
+The main goal of this app is to display the suggestions of the different meals when the user 
+types in the time of day.  
+
+Feature : The "IF Statement"-  displays the different options in a logical order stating what the text message will bring depending on what the 
+user types in. 
+
+
+
+
+Design Considerations
 The Suggestions app is a project that we had to do as part of our IMAD
 assignment. To create an app that displays suggestions when the user
 types in the time of day to have the meal either breakfast, lunch, or dinner.
@@ -48,6 +59,14 @@ This then compiled the app into APK formats which are the correct formats requir
 
 
 Screenshots
+![Screenshot 2025-04-02 142826](https://github.com/user-attachments/assets/b5df3774-23e4-45eb-810f-aef6050b543b)
+![Screenshot 2025-04-02 142951](https://github.com/user-attachments/assets/1c72deb5-cd39-4e00-b643-dd00e816d3f7)
+![Screenshot 2025-04-02 143258](https://github.com/user-attachments/assets/0fb3dbfe-ec52-4125-a037-9ce8ba5c052b)
+![Screenshot 2025-04-02 143258](https://github.com/user-attachments/assets/1cc42d41-670e-437e-97bf-2a5b01e7ac89)
+
+
+
+
 
 
 
