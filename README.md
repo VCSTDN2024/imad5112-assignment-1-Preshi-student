@@ -50,6 +50,10 @@ made changes to the app, added more features perhaps colour and
 images then I would commit and push these changes to github. By
 pushing to github I kept track of the changes that were being made.
 
+My Github link can be found here:
+
+https://github.com/VCSTDN2024/imad5112-assignment-1-Preshi-student/tree/main
+
 Github Actions
 
 After pushing my codes to Github then I used Github Actions to automate the build and deployment process. 
@@ -71,6 +75,7 @@ Screenshots
 
 
 Video link
+https://youtu.be/3RtRKOxY-kg?si=mTF38hYDCERPBQvO
 
 References
 (JetBrains, Kotlinlang, 2025)
@@ -101,6 +106,7 @@ Challenges and Learnings
 Challenge 1: Gradle problems-  I struggled finding a solution due to an internal error not with my code but rather my IDE and the overall gradle whereby it was stopping my app from running. 
     Solution: I should have researched more about this and did critical checking  rather than struggling with it and wasting time till the last moment whereby I had to restart my app. 
 From this challenge specifically I learned how important it is to always update my gradle and my version app, and how important to check the version control and the kind of codes I'm using. 
+
     
 
     
