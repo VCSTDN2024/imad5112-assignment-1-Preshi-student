@@ -107,6 +107,11 @@ Challenge 1: Gradle problems-  I struggled finding a solution due to an internal
     Solution: I should have researched more about this and did critical checking  rather than struggling with it and wasting time till the last moment whereby I had to restart my app. 
 From this challenge specifically I learned how important it is to always update my gradle and my version app, and how important to check the version control and the kind of codes I'm using. 
 
+Generative AI's used 
+
+I used ChatGPT when I ran out of options on how to fix my errors. 
+
+
     
 
     
