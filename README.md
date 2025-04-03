@@ -107,6 +107,13 @@ References for images:
 Sprite Soft Drink Can ( 24*300ml)- Seamsens Online Store, Durban and Cape Town. (2022, November 9). Seamsens Online Store, Durban and Cape Town.
 https:// marinestore.co.za./product/sprite-soft drink-can- 24-x-300 ml 
 
+Beef and Black Been Nachos, 2012. QueRica Vida.com.
+https:// www. quericavida. com/recipes/beef-and-black-bean-nachos/240b2ff4-1386-4b3b-9fe7-4655ab0ed4al
+
+Chicken tenders with crispy cut and swirly fries receipe - Seara. (2022, September 11). Seara. 
+https:// searafoodsme.com/receipes/chicken-tenders-with-crispy-cut-and-swirly-fries-receipe/
+
+
 
 
 
@@ -117,9 +124,7 @@ Challenge 1: Gradle problems-  I struggled finding a solution due to an internal
     Solution: I should have researched more about this and did critical checking  rather than struggling with it and wasting time till the last moment whereby I had to restart my app. 
 From this challenge specifically I learned how important it is to always update my gradle and my version app, and how important to check the version control and the kind of codes I'm using. 
 
-Generative AI's used 
 
-I used ChatGPT when I ran out of options on how to fix my errors. 
 
 
     
