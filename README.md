@@ -102,6 +102,13 @@ Studio. [video online] Available at:
 https://youtu.be/rc4PBwJE78k?si=5Xq-jRKMnsynJmBy
 https://youtu.be/3RtRKOxY-kg?si=b18MqpIv-CzENWRJ
 
+References for images:
+
+Sprite Soft Drink Can ( 24*300ml)- Seamsens Online Store, Durban and Cape Town. (2022, November 9). Seamsens Online Store, Durban and Cape Town.
+https:// marinestore.co.za./product/sprite-soft drink-can- 24-x-300 ml 
+
+
+
 
 
 Challenges and Learnings 
