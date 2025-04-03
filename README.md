@@ -102,6 +102,8 @@ Studio. [video online] Available at:
 https://youtu.be/rc4PBwJE78k?si=5Xq-jRKMnsynJmBy
 https://youtu.be/3RtRKOxY-kg?si=b18MqpIv-CzENWRJ
 
+
+
 Challenges and Learnings 
 
 Challenge 1: Gradle problems-  I struggled finding a solution due to an internal error not with my code but rather my IDE and the overall gradle whereby it was stopping my app from running. 
